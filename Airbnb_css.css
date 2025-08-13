@@ -1079,6 +1079,9 @@ footer {
   .head-sec {
     margin: 0px 20px 0px 0px;
   }
+  .main-support{
+    padding:0 32px;
+  }
 }
 
 @media (min-width: 1128px) {
@@ -1142,3 +1145,4 @@ footer {
     margin-right: 320px;
   }
 }
+
