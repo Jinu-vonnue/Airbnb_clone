@@ -1082,6 +1082,8 @@ footer {
   .main-support{
     padding:0 32px;
   }
+  .main-title{
+    padding-left:8px;
 }
 
 @media (min-width: 1128px) {
@@ -1145,4 +1147,5 @@ footer {
     margin-right: 320px;
   }
 }
+
 
